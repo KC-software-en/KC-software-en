@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.hyperiondev.com/portfolio/92789/](https://www.hyperiondev.com/portfolio/92789/)
 
-- 💬 Ask me about **Python, HTML5, CSS, Django, MySql**
+- 💬 Ask me about **Python, HTML5, CSS, Django, SQL**
 
 - 📫 How to reach me **kisha.cairncross@gmail.com**
 
