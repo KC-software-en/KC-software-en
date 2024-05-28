@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kc-software-en&label=Profile%20views&color=0e75b6&style=flat" alt="kc-software-en" /> </p>
 
-- 🌱 I’m currently learning **Rest/Restful API**
+- 🌱 I’m currently learning **Python**
 
 - 👯 I’m looking to collaborate on **Python projects**
 
